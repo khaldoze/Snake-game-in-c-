@@ -51,8 +51,8 @@ The project was created as a hands-on experience with **C++ game development** a
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/khaldoze/Snake-game-in-c-.git
+cd Snake-game-in-c-
 ```
 
 ### Build & Run
